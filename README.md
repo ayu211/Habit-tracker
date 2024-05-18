@@ -1,3 +1,5 @@
+### `HABIT TRACKER`
+
 A simple yet effective habit tracker app built with React, Redux, and CSS. This app helps you establish and track daily habits, visualize your progress, and stay motivated on your journey to self-improvement.
 
 ### Features
