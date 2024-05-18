@@ -1,6 +1,6 @@
 A simple yet effective habit tracker app built with React, Redux, and CSS. This app helps you establish and track daily habits, visualize your progress, and stay motivated on your journey to self-improvement.
 
-Features
+### Features
 
 1. Add and delete habit: User can easily add habits and delete it.
 2. Week view: User can view there habits in week view.
@@ -9,13 +9,13 @@ Features
 
 ### Technologies Used
 
-Front-End:
-React: A JavaScript library for building user interfaces.
-Redux: A state management library for predictable state updates.
-React Router: For navigation and routing within the app.
-Styling:
-CSS: Cascading Style Sheets for visually appealing designs.
-Font Awesome: For icons
+# Front-End:
+1. React: A JavaScript library for building user interfaces.
+2. Redux: A state management library for predictable state updates.
+3. React Router: For navigation and routing within the app.
+# Styling:
+1. CSS: Cascading Style Sheets for visually appealing designs.
+2. Font Awesome: For icons
 
 ### `Getting Started`
 
