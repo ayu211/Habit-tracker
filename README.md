@@ -22,17 +22,21 @@ Font Awesome: For icons
 ### Clone the Repository:
 
 Bash
-git clone https://github.com/ayu211/habit-tracker.git
+
+git clone https://github.com/ayu211/Habit-tracker.git
 
 ### Install Dependencies:
 
 Bash
+
 cd habit-tracker
+
 npm install
 
 ### Run the App:
 
 Bash
+
 npm start
 
-### DEPLOYED LINK :  
+### DEPLOYED LINK :  https://manner.netlify.app/
